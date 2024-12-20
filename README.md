@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/8e/2b/8c/8e2b8c72a993b3e84b7b2b373eef623e.gif" alt="Animação de pétalas de Sakura caindo" />
+  <img src="https://media.giphy.com/media/3o6Zt8GZ4Z3x8z0XuA/giphy.gif" alt="Cobra andando" />
 </p>
 
 <h3 align="center" style="color:#70afc6;">
@@ -28,11 +28,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=radical&title_color=70afc6&icon_color=b270c6&text_color=333333&bg_color=ffffff" alt="Estatísticas GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nebuul&show_icons=true&theme=radical&title_color=70afc6&icon_color=b270c6&text_color=333333&bg_color=ffffff" alt="Estatísticas GitHub" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seuusername&theme=radical&background=ffffff" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nebuul&theme=radical&background=ffffff" alt="GitHub Streak" />
 </p>
 
 <div align="center">
