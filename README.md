@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/l1J9qJ2h7Zg3w9oH6/giphy.gif" alt="Fundo animado" style="width: 100%; height: auto; position: fixed; top: 0; left: 0; z-index: -1;" />
+  <img src="https://i.pinimg.com/originals/8e/2b/8c/8e2b8c72a993b3e84b7b2b373eef623e.gif" alt="Animação de pétalas de Sakura caindo" />
 </p>
 
-<h3 align="center" style="color:#70afc6; background: rgba(255, 255, 255, 0.8); padding: 10px;">
+<h2 align="center" style="font-family: 'Courier New', monospace; color:#70afc6;">
   🌸 Apenas uma curiosa no mundo dos desenvolvedores. 🌸<br>
-</h3>
+</h2>
 
-<h3 align="center" style="color:#70afc6; background: rgba(255, 255, 255, 0.8); padding: 10px;">🌸 Habilidades 🌸</h3>
+<h3 align="center" style="font-family: 'Courier New', monospace; color:#70afc6;">🌸 Habilidades 🌸</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-70afc6?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS-b270c6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/SQL-70afc6?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
-<h3 align="center" style="color:#70afc6; background: rgba(255, 255, 255, 0.8); padding: 10px;">🌸 Vamos nos Conectar! 🌸</h3>
+<h3 align="center" style="font-family: 'Courier New', monospace; color:#70afc6;">🌸 Vamos nos Conectar! 🌸</h3>
 <p align="center">
   <a href="mailto:nebulosahub@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-70afc6?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
