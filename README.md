@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/8e/2b/8c/8e2b8c72a993b3e84b7b2b373eef623e.gif" alt="Animation of falling Sakura petals" />
+  <img src="https://cdn.discordapp.com/attachments/1319472463700033588/1319472493387321365/download_2.gif?ex=67661605&is=6764c485&hm=5e8fccb395e2f0f3aa707bcef2991277b464f793dc8a5c052f7d40b0c71d97a3&" alt="Your GIF Animation" />
 </p>
 
 <h2 align="center" style="font-family: 'Courier New', monospace; color:#70afc6;">
